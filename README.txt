@@ -1,4 +1,7 @@
 
+** Update: I found the language that does this like I wanted and that is [V](https://github.com/vlang/v) **
+
+
 A is structs and pointers. C is structs and pointers and undefined behavior.
 
 - C-like core: machine num types, pointers, structs, unions, function pointers, labels-as-values
